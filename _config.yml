@@ -1,0 +1,14 @@
+layout_spectrum: 0.08040827559307218
+typography_spectrum: 0.6983823559712619
+color:
+  brandStrength: 0.8048032408114523
+  lightness: 0.6335752471350133
+  saturation: 0.311468226602301
+  rhythmicContrast: 0.8414241462014616
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Hocone
